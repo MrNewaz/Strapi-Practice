@@ -1,0 +1,12 @@
+
+### Products
+http://localhost:1337/products?_limit=2
+
+### Products Sorted
+http://localhost:1337/products?_sort=title
+
+### Products One
+http://localhost:1337/products/1
+
+### Catagories
+http://localhost:1337/categories
